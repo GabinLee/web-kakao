@@ -1,5 +1,5 @@
 module.exports = {
-  "publicPath": '/kakao',
+  "publicPath": '/web-kakao',
   "outputDir": 'docs',
   "transpileDependencies": [
     "vuetify"
